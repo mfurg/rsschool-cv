@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mfurg.github.io/rsschool-cv/cv
