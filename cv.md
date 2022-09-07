@@ -1,15 +1,15 @@
 [rsschool-cv](https://github.com/mfurg/rsschool-cv)
 -------------------
-#Maksym Furgalo
+# Maksym Furgalo
 -------------------
-Contact information:
+## Contact information:
 Phone: some phone
 E-mail: some email
 Telegram: @mfau00
 [LinkedIn](https://www.linkedin.com/in/furgalo/)
 -------------------
 
-Education
+## Education
 -------------------
 
 2014-2019
@@ -17,7 +17,7 @@ Education
 
     *Software engineer*
 
-Experience
+## Experience
 ----------
 
 2020-now
@@ -30,7 +30,7 @@ Experience
 
     *IT Specialist*
 
-Technical Experience
+## Technical Experience
 --------------------
 
 FrontEnd
@@ -41,7 +41,7 @@ BackEnd
 * Node JS, Ruby on Rails, some expirience with PHP
 * SQL Databases
 
-Languages:
+## Languages:
 ----------------------------------------
 
 Human Languages:
